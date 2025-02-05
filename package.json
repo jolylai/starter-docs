@@ -2,7 +2,7 @@
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "pnpm@9.15.4",
+  "packageManager": "pnpm@9.15.5",
   "scripts": {
     "dev": "vitepress dev docs",
     "docs:dev": "vitepress dev docs",
@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.1.1",
-    "eslint": "^9.18.0",
+    "eslint": "^9.19.0",
     "vitepress": "^1.6.3"
   }
 }
