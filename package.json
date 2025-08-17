@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.19.0",
-    "eslint": "^9.32.0",
+    "eslint": "^9.33.0",
     "vitepress": "^1.6.4"
   }
 }
