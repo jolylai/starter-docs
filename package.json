@@ -2,7 +2,7 @@
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "pnpm@10.17.0",
+  "packageManager": "pnpm@10.17.1",
   "scripts": {
     "dev": "vitepress dev docs",
     "docs:dev": "vitepress dev docs",
